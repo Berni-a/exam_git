@@ -1,2 +1,2 @@
-# exam_git
-Repo pour l'exam git
+## Contribution
+Merci de soumettre vos suggestions directement via une pull request.
